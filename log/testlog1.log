@@ -1,0 +1,177 @@
+2019-12-29 01:02:38,050 [main] INFO Guru99Bank - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-29 01:02:48,865 [main] INFO Guru99Bank - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-29 01:02:49,097 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 01:02:49,191 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 01:02:49,393 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 01:02:49,409 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 01:02:49,441 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 01:02:49,508 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 01:02:50,052 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 01:02:50,081 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 01:02:50,161 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 01:02:50,183 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 01:02:50,206 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 01:02:50,231 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 01:02:50,441 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 01:02:50,465 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 01:02:50,484 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 01:02:50,511 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 01:02:50,512 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (51e725e6a4fa99320a671c1ae08f6f46)] -> name: btnLogin]
+2019-12-29 01:02:51,072 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (51e725e6a4fa99320a671c1ae08f6f46)] -> name: btnLogin]
+2019-12-29 01:02:51,080 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-29 01:03:03,208 [main] INFO Guru99Bank - Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-29 01:03:03,302 [main] INFO Guru99Bank - verifyValidLogin passed
+2019-12-29 02:30:13,227 [main] INFO Guru99Bank - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-29 02:30:19,892 [main] INFO Guru99Bank - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-29 02:30:20,258 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:30:20,466 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:30:20,752 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:30:20,803 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:30:20,818 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:30:20,851 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:30:21,342 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:30:21,371 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:30:21,434 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:30:21,459 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:30:21,484 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:30:21,687 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:30:21,926 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:30:21,954 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:30:21,974 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:30:21,996 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:30:21,997 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (16f01ca0a2ef61b3ca4265ea2eb3fdb2)] -> name: btnLogin]
+2019-12-29 02:30:23,532 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (16f01ca0a2ef61b3ca4265ea2eb3fdb2)] -> name: btnLogin]
+2019-12-29 02:30:23,690 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-29 02:30:25,226 [main] INFO Guru99Bank - Exception occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=79.0.3945.88): User or Password is not valid
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.39', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52717}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 16f01ca0a2ef61b3ca4265ea2eb3fdb2
+*** Element info: {Using=xpath, value=//td[contains(text(),'Manger Id')]}
+2019-12-29 02:31:20,534 [main] INFO Guru99Bank - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-29 02:31:29,622 [main] INFO Guru99Bank - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-29 02:31:29,638 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:31:29,699 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:31:29,800 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:31:29,848 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:31:29,955 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:31:30,005 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:31:30,447 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:31:30,484 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:31:30,568 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:31:30,665 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:31:30,778 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:31:30,808 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:31:31,023 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:31:31,047 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:31:31,063 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:31:31,104 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:31:31,105 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (42a0864458e31d9a0edf06f62f4a3ae6)] -> name: btnLogin]
+2019-12-29 02:31:32,014 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (42a0864458e31d9a0edf06f62f4a3ae6)] -> name: btnLogin]
+2019-12-29 02:31:32,027 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-29 02:31:32,117 [main] INFO Guru99Bank - Exception occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=79.0.3945.88): User or Password is not valid
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.39', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52868}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 42a0864458e31d9a0edf06f62f4a3ae6
+*** Element info: {Using=xpath, value=//a[contains(text(),'Change Password')]}
+2019-12-29 02:32:24,213 [main] INFO Guru99Bank - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-29 02:32:31,304 [main] INFO Guru99Bank - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-29 02:32:31,552 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:32:31,584 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:32:31,685 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:32:31,726 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:32:31,751 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:32:31,791 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:32:32,096 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:32:32,143 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:32:32,220 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:32:32,247 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:32:32,263 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:32:32,296 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:32:32,461 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:32:32,486 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:32:32,510 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:32:32,566 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:32:32,567 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36cb9fcef9435fbec8120bbe626de885)] -> name: btnLogin]
+2019-12-29 02:32:36,752 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (36cb9fcef9435fbec8120bbe626de885)] -> name: btnLogin]
+2019-12-29 02:32:36,795 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-29 02:32:36,962 [main] INFO Guru99Bank - Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-29 02:32:37,068 [main] INFO Guru99Bank - verifyValidLogin passed
+2019-12-29 02:33:33,399 [main] INFO Guru99Bank - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-29 02:33:55,990 [main] INFO Guru99Bank - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-29 02:33:56,172 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:33:56,260 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:33:56,514 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:33:56,538 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:33:56,644 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:33:56,710 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:33:57,106 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:33:57,146 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:33:57,296 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:33:57,327 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:33:57,407 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:33:57,537 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:33:57,875 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:33:57,931 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:33:57,959 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:33:58,009 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:33:58,021 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> name: btnLogin]
+2019-12-29 02:34:02,035 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> name: btnLogin]
+2019-12-29 02:34:02,044 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-29 02:34:02,212 [main] INFO Guru99Bank - Found Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-29 02:34:02,279 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-29 02:34:02,398 [main] INFO Guru99Bank - Found Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-29 02:34:02,399 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> xpath: //a[contains(text(),'Change Password')]]
+2019-12-29 02:34:05,692 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> xpath: //a[contains(text(),'Change Password')]]
+2019-12-29 02:34:06,944 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='oldpassword']
+2019-12-29 02:34:07,174 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='oldpassword']
+2019-12-29 02:34:07,256 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='oldpassword']
+2019-12-29 02:34:07,287 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='oldpassword']
+2019-12-29 02:34:07,324 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='oldpassword']
+2019-12-29 02:34:07,378 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='oldpassword']
+2019-12-29 02:34:08,418 [main] INFO Guru99Bank - New password changed toNewPass@1
+2019-12-29 02:34:08,418 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='newpassword']
+2019-12-29 02:34:08,462 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='newpassword']
+2019-12-29 02:34:08,562 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='newpassword']
+2019-12-29 02:34:08,668 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='newpassword']
+2019-12-29 02:34:08,707 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='newpassword']
+2019-12-29 02:34:08,808 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='newpassword']
+2019-12-29 02:34:09,249 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-29 02:34:09,290 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-29 02:34:09,385 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-29 02:34:09,413 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-29 02:34:09,429 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-29 02:34:09,480 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-29 02:34:09,882 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-29 02:34:09,928 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='sub']
+2019-12-29 02:34:09,959 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-29 02:34:11,718 [main] INFO Guru99Bank - Found Element By : By.xpath: //input[@name='sub']
+2019-12-29 02:34:11,719 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> xpath: //input[@name='sub']]
+2019-12-29 02:34:16,376 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> xpath: //input[@name='sub']]
+2019-12-29 02:34:16,707 [main] INFO Guru99Bank - Success Message:Password is Changed
+2019-12-29 02:34:16,940 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:34:21,852 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:34:22,056 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:34:22,089 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:34:22,150 [main] INFO Guru99Bank - Trying to find Element By : By.name: uid
+2019-12-29 02:34:22,208 [main] INFO Guru99Bank - Found Element By : By.name: uid
+2019-12-29 02:34:22,613 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:34:22,639 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:34:22,719 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:34:22,741 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:34:22,763 [main] INFO Guru99Bank - Trying to find Element By : By.name: password
+2019-12-29 02:34:22,871 [main] INFO Guru99Bank - Found Element By : By.name: password
+2019-12-29 02:34:23,363 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:34:23,428 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:34:23,460 [main] INFO Guru99Bank - Trying to find Element By : By.name: btnLogin
+2019-12-29 02:34:23,586 [main] INFO Guru99Bank - Found Element By : By.name: btnLogin
+2019-12-29 02:34:23,755 [main] INFO Guru99Bank - Trying to click on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> name: btnLogin]
+2019-12-29 02:34:26,707 [main] INFO Guru99Bank - Clicked on: [[ChromeDriver: chrome on WINDOWS (236569d8287bee8c801e1277dbe790c8)] -> name: btnLogin]
+2019-12-29 02:34:26,834 [main] INFO Guru99Bank - Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-29 02:34:27,065 [main] INFO Guru99Bank - Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-29 02:34:27,225 [main] INFO Guru99Bank - User loggd in with new password: NewPass@1
