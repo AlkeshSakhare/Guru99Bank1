@@ -18,6 +18,7 @@ import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -176,14 +177,24 @@ public class TestUtil extends TestBase {
 		FileUtils.copyFile(scrFile, new File(currentDir + "/screenshots/" + timeStamp + ".png"));
 	}
 
-	public String randomestring() {
-		String generatedstring = RandomStringUtils.randomAlphabetic(8);
+	public static String randomestring(int noOfChar) {
+		String generatedstring = RandomStringUtils.randomAlphabetic(noOfChar);
 		return (generatedstring);
 	}
 
-	public static String randomeNum() {
-		String generatedNumber = RandomStringUtils.randomNumeric(4);
+	public static String randomeNum(int noOfDigit) {
+		String generatedNumber = RandomStringUtils.randomNumeric(noOfDigit);
 		return (generatedNumber);
+	}
+
+	public static boolean isAlertPresent() {
+		try {
+			driver.switchTo().alert();
+			return true;
+		} // try
+		catch (NoAlertPresentException Ex) {
+			return false;
+		} // catch
 	}
 
 }

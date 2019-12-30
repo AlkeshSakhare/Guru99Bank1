@@ -175,3 +175,1878 @@ Session ID: 42a0864458e31d9a0edf06f62f4a3ae6
 2019-12-29 02:34:26,834 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
 2019-12-29 02:34:27,065 - Guru99Bank -INFO - Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
 2019-12-29 02:34:27,225 - Guru99Bank -INFO - User loggd in with new password: NewPass@1
+2019-12-29 19:06:37,759 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-29 19:07:14,815 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-29 19:07:15,279 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-29 19:07:15,394 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-29 19:07:15,866 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-29 19:07:15,883 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-29 19:07:15,905 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-29 19:07:15,957 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-29 19:07:16,335 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-29 19:07:16,363 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-29 19:07:16,435 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-29 19:07:16,458 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-29 19:07:16,485 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-29 19:07:16,564 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-29 19:07:16,782 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-29 19:07:16,813 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-29 19:07:16,833 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-29 19:07:16,885 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-29 19:07:16,886 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> name: btnLogin]
+2019-12-29 19:07:17,231 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> name: btnLogin]
+2019-12-29 19:07:17,383 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-29 19:07:33,292 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-29 19:07:33,334 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-29 19:07:33,364 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-29 19:07:33,365 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-29 19:07:38,534 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-29 19:07:38,701 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-29 19:07:38,739 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-29 19:07:38,813 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-29 19:07:38,836 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-29 19:07:38,856 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-29 19:07:38,914 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-29 19:07:39,297 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-29 19:07:39,325 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-29 19:07:39,338 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-29 19:07:39,355 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-29 19:07:39,356 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> xpath: //tr[5]//td[2]//input[2]]
+2019-12-29 19:07:39,461 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> xpath: //tr[5]//td[2]//input[2]]
+2019-12-29 19:07:39,466 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-29 19:07:39,515 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-29 19:07:39,592 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-29 19:07:39,609 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-29 19:07:39,679 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-29 19:07:39,714 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-29 19:07:39,970 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-29 19:07:39,995 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-29 19:07:40,049 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-29 19:07:40,065 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-29 19:07:40,088 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-29 19:07:40,115 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-29 19:07:40,400 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-29 19:07:40,426 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-29 19:07:40,486 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-29 19:07:40,505 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-29 19:07:40,529 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-29 19:07:40,560 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-29 19:07:40,848 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-29 19:07:40,872 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-29 19:07:40,932 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-29 19:07:40,948 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-29 19:07:40,968 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-29 19:07:40,991 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-29 19:07:41,281 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-29 19:07:41,305 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-29 19:07:41,366 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-29 19:07:41,382 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-29 19:07:41,402 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-29 19:07:41,426 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-29 19:07:41,750 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-29 19:07:41,780 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-29 19:07:41,842 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-29 19:07:41,859 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-29 19:07:41,881 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-29 19:07:41,909 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-29 19:07:42,260 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-29 19:07:42,285 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-29 19:07:42,344 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-29 19:07:42,359 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-29 19:07:42,379 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-29 19:07:42,413 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-29 19:07:42,766 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-29 19:07:42,791 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-29 19:07:42,855 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-29 19:07:42,876 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-29 19:07:42,894 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-29 19:07:42,921 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-29 19:07:43,156 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-29 19:07:43,182 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-29 19:07:43,198 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-29 19:07:43,236 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-29 19:07:43,237 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> xpath: //input[@name='sub']]
+2019-12-29 19:07:43,403 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (b7350b2bf6f6a47004aa0f13c547d827)] -> xpath: //input[@name='sub']]
+2019-12-29 19:07:43,437 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-29 19:07:43,550 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : please fill all fields}
+  (Session info: chrome=79.0.3945.88): please fill all fields
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49505}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b7350b2bf6f6a47004aa0f13c547d827
+*** Element info: {Using=xpath, value=//input[@name='name']}
+2019-12-30 19:01:44,922 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:01:50,872 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:01:52,256 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:01:52,398 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:01:52,597 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:01:52,617 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:01:52,633 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:01:52,668 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:01:53,092 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:01:53,119 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:01:53,199 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:01:53,214 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:01:53,232 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:01:53,259 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:01:53,473 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:01:53,499 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:01:53,517 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:01:53,562 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:01:53,563 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> name: btnLogin]
+2019-12-30 19:01:56,649 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> name: btnLogin]
+2019-12-30 19:01:56,689 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:01:56,763 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:01:56,778 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:01:56,800 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:01:56,801 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:01:59,333 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:01:59,380 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:01:59,409 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:01:59,471 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:01:59,488 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:01:59,501 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:01:59,533 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:01:59,776 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:01:59,800 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:01:59,813 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:01:59,830 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:01:59,830 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> xpath: //tr[5]//td[2]//input[2]]
+2019-12-30 19:02:00,005 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> xpath: //tr[5]//td[2]//input[2]]
+2019-12-30 19:02:00,007 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,105 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,230 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,271 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,426 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,454 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,765 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,790 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,852 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,927 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:00,958 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,037 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,360 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,379 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,429 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,448 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,476 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,496 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:02:01,659 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:02:01,686 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:02:01,740 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:02:01,756 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:02:01,769 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:02:01,793 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:02:01,971 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:02:01,995 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:02:02,054 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:02:02,069 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:02:02,094 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:02:02,126 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:02:02,946 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:02:02,979 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:02:03,082 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:02:03,125 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:02:03,155 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:02:03,197 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:02:03,513 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:02:03,549 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:02:03,610 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:02:03,627 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:02:03,648 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:02:03,690 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:02:04,148 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:02:04,177 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:02:04,247 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:02:04,270 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:02:04,285 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:02:04,333 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:02:04,645 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:02:04,676 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:02:04,737 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:02:04,761 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:02:04,777 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:02:04,815 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:02:05,195 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:02:05,223 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:02:05,500 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:02:05,526 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:02:05,549 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:02:05,583 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:02:05,930 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:02:05,959 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:02:05,977 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:02:06,006 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:02:06,007 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> xpath: //input[@name='sub']]
+2019-12-30 19:02:07,021 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (7e154131e67130d56f305bbd6e28f651)] -> xpath: //input[@name='sub']]
+2019-12-30 19:02:07,024 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:02:09,465 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : please fill all fields}
+  (Session info: chrome=79.0.3945.88): please fill all fields
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55100}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7e154131e67130d56f305bbd6e28f651
+*** Element info: {Using=xpath, value=//*[@id='customer']/tbody/tr[4]/td[2]}
+2019-12-30 19:17:15,495 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:17:24,802 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:17:24,902 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:17:24,933 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:17:25,043 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:17:25,074 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:17:25,105 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:17:25,121 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:17:25,483 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:17:25,510 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:17:25,577 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:17:26,074 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:17:26,090 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:17:26,117 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:17:28,689 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:17:28,720 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:17:28,738 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:17:28,762 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:17:28,763 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> name: btnLogin]
+2019-12-30 19:17:35,078 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> name: btnLogin]
+2019-12-30 19:17:35,419 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-30 19:17:35,929 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-30 19:17:35,949 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-30 19:17:35,986 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'Change Password')]
+2019-12-30 19:17:35,987 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> xpath: //a[contains(text(),'Change Password')]]
+2019-12-30 19:17:38,737 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> xpath: //a[contains(text(),'Change Password')]]
+2019-12-30 19:17:38,776 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='oldpassword']
+2019-12-30 19:17:38,819 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='oldpassword']
+2019-12-30 19:17:38,888 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='oldpassword']
+2019-12-30 19:17:38,925 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='oldpassword']
+2019-12-30 19:17:38,957 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='oldpassword']
+2019-12-30 19:17:39,074 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='oldpassword']
+2019-12-30 19:17:39,616 - Guru99Bank -INFO - New password changed to NewPass@7
+2019-12-30 19:17:39,617 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='newpassword']
+2019-12-30 19:17:39,657 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='newpassword']
+2019-12-30 19:17:39,834 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='newpassword']
+2019-12-30 19:17:39,881 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='newpassword']
+2019-12-30 19:17:39,941 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='newpassword']
+2019-12-30 19:17:40,005 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='newpassword']
+2019-12-30 19:17:40,453 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-30 19:17:40,486 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-30 19:17:40,586 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-30 19:17:40,617 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-30 19:17:40,633 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-30 19:17:40,678 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='confirmpassword']
+2019-12-30 19:17:40,929 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:17:40,956 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:17:40,972 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:17:40,992 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:17:40,993 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> xpath: //input[@name='sub']]
+2019-12-30 19:17:42,032 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> xpath: //input[@name='sub']]
+2019-12-30 19:17:42,081 - Guru99Bank -INFO - Success Message:Password is Changed
+2019-12-30 19:17:42,173 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:17:44,328 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:17:44,415 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:17:44,439 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:17:44,454 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:17:44,497 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:17:44,788 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:17:44,813 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:17:44,876 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:17:44,893 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:17:44,910 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:17:44,937 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:17:45,128 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:17:45,145 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:17:45,160 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:17:45,217 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:17:45,217 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> name: btnLogin]
+2019-12-30 19:17:48,039 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (5ba19398e3f45335a3520ce6a6ccfe45)] -> name: btnLogin]
+2019-12-30 19:17:48,050 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-30 19:17:48,164 - Guru99Bank -INFO - Found Element By : By.xpath: //td[contains(text(),'Manger Id')]
+2019-12-30 19:17:48,433 - Guru99Bank -INFO - User loggd in with new password: NewPass@7
+2019-12-30 19:19:26,363 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:19:34,353 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:19:34,451 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:19:34,489 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:19:34,568 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:19:34,604 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:19:34,619 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:19:34,686 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:19:34,985 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:19:35,027 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:19:35,094 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:19:35,120 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:19:35,138 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:19:35,225 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:19:35,507 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:19:36,274 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:19:36,302 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:19:37,349 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:19:37,350 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> name: btnLogin]
+2019-12-30 19:19:41,301 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> name: btnLogin]
+2019-12-30 19:19:41,365 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:19:41,460 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:19:41,491 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:19:41,578 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:19:41,579 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:19:44,583 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:19:44,633 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:19:44,696 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:19:44,879 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:19:44,900 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:19:44,913 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:19:44,969 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:19:45,428 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:19:45,505 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:19:45,560 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:19:45,605 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[2]
+2019-12-30 19:19:45,606 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> xpath: //tr[5]//td[2]//input[2]]
+2019-12-30 19:19:45,806 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> xpath: //tr[5]//td[2]//input[2]]
+2019-12-30 19:19:45,807 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:45,851 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,026 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,060 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,080 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,123 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,457 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,517 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,726 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,793 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,815 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:46,854 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:47,158 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:47,214 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:47,314 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:47,936 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:48,291 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:48,596 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:19:49,170 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:19:49,198 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:19:49,259 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:19:49,281 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:19:49,353 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:19:49,383 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:19:49,944 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:19:50,000 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:19:50,227 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:19:50,249 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:19:50,281 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:19:50,429 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:19:51,140 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:19:51,179 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:19:51,252 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:19:51,290 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:19:51,355 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:19:51,393 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:19:53,092 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:19:53,127 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:19:53,287 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:19:53,320 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:19:53,370 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:19:53,430 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:19:54,210 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:19:54,262 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:19:54,417 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:19:54,440 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:19:54,493 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:19:54,598 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:19:55,295 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:19:55,367 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:19:55,469 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:19:55,494 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:19:55,508 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:19:55,551 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:19:56,185 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:19:56,215 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:19:56,302 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:19:56,345 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:19:56,420 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:19:56,465 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:19:56,898 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:19:56,929 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:19:56,948 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:19:57,018 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:19:57,018 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> xpath: //input[@name='sub']]
+2019-12-30 19:20:11,751 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4da728b0035f8193ec91ced8e92fefcd)] -> xpath: //input[@name='sub']]
+2019-12-30 19:20:12,264 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:20:17,767 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id='customer']/tbody/tr[4]/td[2]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: EventFiringWebDriver
+2019-12-30 19:22:06,514 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:22:11,343 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:22:11,434 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:22:11,465 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:22:11,559 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:22:11,581 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:22:11,601 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:22:11,631 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:22:11,906 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:22:11,936 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:22:11,999 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:22:12,021 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:22:12,038 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:22:12,066 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:22:12,253 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:22:12,284 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:22:12,298 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:22:12,324 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:22:12,325 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> name: btnLogin]
+2019-12-30 19:22:14,992 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> name: btnLogin]
+2019-12-30 19:22:15,040 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:22:15,071 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:22:15,093 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:22:15,124 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:22:15,125 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:22:16,939 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:22:16,982 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:22:17,030 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:22:17,133 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:22:17,166 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:22:17,183 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:22:17,230 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:22:17,582 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:22:17,614 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:22:17,629 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:22:17,646 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:22:17,647 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:22:17,759 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:22:17,761 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:17,805 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:17,874 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:17,917 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,007 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,042 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,193 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,222 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,259 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,286 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,304 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,339 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,444 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,466 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,519 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,540 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,553 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,569 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:22:18,700 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:22:18,733 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:22:18,797 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:22:18,820 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:22:18,917 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:22:18,941 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:22:19,166 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:22:19,191 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:22:19,310 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:22:19,340 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:22:19,351 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:22:19,400 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:22:19,661 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:22:19,702 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:22:20,199 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:22:20,241 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:22:20,433 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:22:20,681 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:22:21,122 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:22:21,166 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:22:21,352 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:22:21,370 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:22:21,397 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:22:21,443 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:22:21,797 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:22:21,827 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:22:21,928 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:22:21,945 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:22:21,967 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:22:21,996 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:22:22,242 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:22:22,270 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:22:22,350 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:22:22,407 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:22:22,486 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:22:22,508 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:22:22,919 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:22:22,947 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:22:23,021 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:22:23,048 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:22:23,071 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:22:23,104 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:22:23,628 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:22:23,664 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:22:23,676 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:22:23,793 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:22:23,795 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> xpath: //input[@name='sub']]
+2019-12-30 19:22:24,831 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (07e44eef9651e24cacb07400f549b09c)] -> xpath: //input[@name='sub']]
+2019-12-30 19:22:25,094 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:23:29,727 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='customer']/tbody/tr[4]/td[2]"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 07e44eef9651e24cacb07400f549b09c
+*** Element info: {Using=xpath, value=//*[@id='customer']/tbody/tr[4]/td[2]}
+2019-12-30 19:26:39,426 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:26:46,308 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:27:36,766 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:27:37,343 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:27:37,596 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:27:37,690 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:27:37,853 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:27:37,945 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:27:39,060 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:27:39,090 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:27:39,185 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:27:39,251 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:27:39,317 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:27:39,382 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:27:39,981 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:27:40,178 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:27:40,267 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:27:40,364 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:27:40,365 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> name: btnLogin]
+2019-12-30 19:27:45,749 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> name: btnLogin]
+2019-12-30 19:27:45,832 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:27:45,891 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:27:45,939 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:27:46,057 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:27:46,058 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:27:48,475 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:27:48,568 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:27:48,655 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:27:48,741 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:27:48,794 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:27:48,858 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:27:48,891 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:27:49,214 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:27:49,246 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:27:49,264 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:27:49,282 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:27:49,283 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:27:49,458 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:27:49,459 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,491 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,560 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,580 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,602 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,687 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,849 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,867 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,928 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,962 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:49,982 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,012 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,139 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,177 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,243 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,276 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,296 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,312 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:27:50,396 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:27:50,440 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:27:50,521 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:27:50,538 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:27:50,571 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:27:50,627 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:27:50,804 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:27:50,832 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:27:50,908 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:27:50,938 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:27:50,949 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:27:50,987 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:27:51,608 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:27:51,646 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:27:51,825 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:27:51,879 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:27:51,897 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:27:52,026 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:27:52,262 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:27:52,293 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:27:52,378 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:27:52,416 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:27:52,434 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:27:52,464 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:27:52,736 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:27:52,763 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:27:52,836 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:27:52,858 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:27:52,875 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:27:52,907 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:27:53,206 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:27:53,234 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:27:53,369 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:27:53,387 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:27:53,408 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:27:53,457 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:27:56,330 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:27:56,359 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:27:56,421 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:27:56,440 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:27:56,488 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:27:56,565 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:27:56,824 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:27:56,849 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:27:56,861 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:27:56,900 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:27:56,901 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> xpath: //input[@name='sub']]
+2019-12-30 19:27:58,483 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (ac4c1b08f1db326b8153f4fa3361a650)] -> xpath: //input[@name='sub']]
+2019-12-30 19:27:58,624 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:28:41,134 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id='customer']/tbody/tr[4]/td[2]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: EventFiringWebDriver
+2019-12-30 19:28:58,485 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:29:13,193 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:29:13,367 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:29:13,879 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:29:17,335 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:29:18,588 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:29:18,697 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:29:19,230 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:29:19,686 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:29:19,824 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:29:19,932 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:29:19,953 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:29:19,972 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:29:20,018 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:29:20,283 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:29:20,610 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:29:20,678 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:29:20,703 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:29:20,703 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f9f8b62e2be950642ac2f7ca87b88d9b)] -> name: btnLogin]
+2019-12-30 19:29:49,284 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (f9f8b62e2be950642ac2f7ca87b88d9b)] -> name: btnLogin]
+2019-12-30 19:29:49,505 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:29:49,963 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:29:49,980 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:29:50,015 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:29:50,015 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f9f8b62e2be950642ac2f7ca87b88d9b)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:29:53,852 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (f9f8b62e2be950642ac2f7ca87b88d9b)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:29:53,981 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:29:54,025 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:29:54,124 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:29:54,144 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:29:54,224 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:29:54,252 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:29:54,601 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:29:54,634 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:29:54,660 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:29:54,681 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:29:54,681 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f9f8b62e2be950642ac2f7ca87b88d9b)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:29:54,851 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (f9f8b62e2be950642ac2f7ca87b88d9b)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:29:54,852 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:54,883 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:54,961 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:54,983 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,000 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,117 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,665 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,686 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,762 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,781 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,792 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,813 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,954 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:55,978 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:56,016 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:56,034 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:56,045 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:56,065 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:29:56,198 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:29:56,229 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:29:56,291 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:29:56,385 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:29:56,465 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:29:56,501 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:29:57,359 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:29:57,629 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:29:57,762 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:29:57,809 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:29:57,826 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:29:57,854 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:29:58,165 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:29:58,198 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:29:58,275 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:29:58,299 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:29:58,399 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:29:58,442 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:29:58,837 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:29:58,869 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:29:58,951 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:29:58,967 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:29:58,986 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:29:59,046 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:30:13,780 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:30:13,821 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:30:14,179 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:30:14,212 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:30:14,239 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:30:14,265 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:31:11,558 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:31:16,919 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:31:17,263 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:31:17,297 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:31:17,406 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:31:17,429 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:31:17,444 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:31:17,467 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:31:17,762 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:31:17,791 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:31:17,862 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:31:17,883 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:31:17,897 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:31:17,918 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:31:18,130 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:31:18,156 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:31:18,176 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:31:18,202 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:31:18,203 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> name: btnLogin]
+2019-12-30 19:31:20,460 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> name: btnLogin]
+2019-12-30 19:31:20,480 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:31:20,526 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:31:20,564 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:31:20,649 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:31:20,650 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:31:22,733 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:31:22,757 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:31:22,798 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:31:22,876 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:31:22,920 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:31:22,994 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:31:23,044 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:31:23,380 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:31:23,414 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:31:23,428 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:31:23,448 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:31:23,449 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:31:23,591 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:31:23,592 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:23,629 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:23,721 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:23,739 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:23,751 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:23,825 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,124 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,146 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,189 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,213 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,236 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,335 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,468 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,510 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,654 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,673 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,682 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,698 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:31:24,757 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:31:24,842 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:31:24,907 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:31:24,969 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:31:25,035 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:31:25,069 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:31:25,244 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:31:25,269 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:31:25,354 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:31:25,468 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:31:25,493 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:31:25,982 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:31:26,717 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:31:26,779 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:31:26,945 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:31:26,963 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:31:26,978 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:31:27,131 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:31:27,351 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:31:27,393 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:31:27,496 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:31:27,535 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:31:27,567 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:31:27,628 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:31:27,898 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:31:27,931 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:31:28,016 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:31:28,069 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:31:28,090 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:31:28,155 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:31:28,380 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:31:28,410 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:31:28,566 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:31:28,597 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:31:28,611 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:31:28,640 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:31:28,958 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:31:28,985 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:31:29,052 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:31:29,071 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:31:29,095 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:31:29,136 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:31:29,596 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:31:29,626 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:31:29,658 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:31:29,768 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:31:29,769 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> xpath: //input[@name='sub']]
+2019-12-30 19:31:32,201 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (be8bac85f3fbf8536e2061dc1539b986)] -> xpath: //input[@name='sub']]
+2019-12-30 19:31:32,593 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:31:53,865 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id='customer']/tbody/tr[4]/td[2]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: EventFiringWebDriver
+2019-12-30 19:32:16,004 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:32:23,277 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:32:23,372 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:32:23,402 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:32:23,492 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:32:23,513 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:32:23,538 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:32:23,606 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:32:23,848 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:32:23,876 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:32:23,948 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:32:23,969 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:32:23,985 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:32:24,015 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:32:24,251 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:32:24,276 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:32:24,297 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:32:24,348 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:32:24,349 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> name: btnLogin]
+2019-12-30 19:32:26,410 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> name: btnLogin]
+2019-12-30 19:32:26,420 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:32:26,475 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:32:26,493 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:32:26,662 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:32:26,663 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:32:29,065 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:32:29,325 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:32:29,353 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:32:29,426 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:32:29,485 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:32:29,518 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:32:29,565 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:32:29,895 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:32:29,926 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:32:29,943 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:32:29,971 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:32:29,972 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:32:30,151 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:32:30,152 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,191 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,261 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,284 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,302 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,420 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,686 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,704 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,747 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,768 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,786 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,814 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,953 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:30,974 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:31,026 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:31,047 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:31,058 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:31,076 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:32:31,165 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:32:31,197 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:32:31,260 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:32:31,279 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:32:31,304 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:32:31,366 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:32:31,535 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:32:31,562 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:32:31,632 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:32:31,668 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:32:31,693 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:32:32,276 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:32:34,209 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:32:34,244 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:32:34,432 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:32:34,450 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:32:34,485 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:32:34,537 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:32:34,797 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:32:34,879 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:32:35,477 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:32:35,502 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:32:35,518 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:32:35,549 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:32:35,957 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:32:35,998 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:32:36,165 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:32:36,185 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:32:36,208 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:32:36,239 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:32:38,601 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:32:38,671 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:32:52,662 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:32:52,677 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:32:52,693 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:32:52,714 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:32:53,149 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:32:53,178 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:32:53,241 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:32:53,262 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:32:53,280 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:32:53,394 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:32:53,846 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:32:53,872 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:32:53,888 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:32:53,916 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:32:53,917 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> xpath: //input[@name='sub']]
+2019-12-30 19:32:59,980 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (e851139773d73433ba542241b6558153)] -> xpath: //input[@name='sub']]
+2019-12-30 19:33:01,633 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:33:48,486 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id='customer']/tbody/tr[4]/td[2]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: EventFiringWebDriver
+2019-12-30 19:34:19,528 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:34:27,300 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:34:27,471 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:34:27,589 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:34:27,683 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:34:27,706 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:34:27,724 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:34:27,749 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:34:28,001 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:34:28,027 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:34:28,089 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:34:28,104 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:34:28,154 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:34:28,197 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:34:28,367 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:34:28,395 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:34:28,412 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:34:28,456 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:34:28,457 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> name: btnLogin]
+2019-12-30 19:34:32,138 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> name: btnLogin]
+2019-12-30 19:34:32,257 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:34:32,348 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:34:32,366 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:34:32,410 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:34:32,411 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:34:33,854 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:34:33,878 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:34:33,933 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:34:34,013 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:34:34,039 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:34:34,070 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:34:34,109 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:34:34,413 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:34:34,441 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:34:34,458 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:34:34,476 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:34:34,477 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:34:34,576 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:34:34,577 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:34,647 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:34,797 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:34,814 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:34,833 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:34,882 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:35,038 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:35,065 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:35,140 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:35,158 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:35,168 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:35,183 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:34:35,405 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:34:35,436 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:34:35,522 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:34:35,547 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:34:35,566 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:34:35,632 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:34:35,825 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:34:35,852 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:34:35,913 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:34:35,935 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:34:35,955 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:34:35,989 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:34:36,228 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:34:36,260 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:34:36,326 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:34:36,344 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:34:36,360 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:34:36,383 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:34:36,540 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:34:36,568 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:34:36,659 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:34:36,662 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:34:36,709 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:34:36,757 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:34:37,788 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:34:38,192 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:34:38,305 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:34:38,399 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:34:38,433 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:34:38,925 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:34:45,016 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:34:48,062 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:34:48,154 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:34:48,181 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:34:48,211 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:34:48,281 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:35:05,028 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:35:05,074 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:35:05,171 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:35:05,193 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:35:05,255 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:35:05,291 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:35:05,579 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:35:05,696 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:35:05,784 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:35:05,890 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:35:05,891 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> xpath: //input[@name='sub']]
+2019-12-30 19:35:06,507 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (481d3ac747524f25c320e194693b4dab)] -> xpath: //input[@name='sub']]
+2019-12-30 19:35:07,452 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:36:07,552 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='customer']/tbody/tr[4]/td[2]"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 481d3ac747524f25c320e194693b4dab
+*** Element info: {Using=xpath, value=//*[@id='customer']/tbody/tr[4]/td[2]}
+2019-12-30 19:40:31,414 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:40:38,484 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:40:39,028 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:40:39,064 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:40:39,165 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:40:39,204 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:40:39,246 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:40:39,265 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:40:39,670 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:40:39,708 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:40:39,795 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:40:39,826 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:40:39,857 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:40:39,927 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:40:40,264 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:40:40,294 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:40:40,308 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:40:40,338 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:40:40,339 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> name: btnLogin]
+2019-12-30 19:40:43,044 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> name: btnLogin]
+2019-12-30 19:40:43,086 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:40:43,166 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:40:43,234 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:40:43,336 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:40:43,337 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:40:46,227 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:40:46,688 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:40:46,723 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:40:46,798 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:40:46,827 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:40:46,848 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:40:46,887 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:40:47,367 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:40:47,399 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:40:47,420 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:40:47,439 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:40:47,440 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:40:47,569 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:40:47,570 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:47,646 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:47,825 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:47,845 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:47,873 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:47,919 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:48,204 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:48,223 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:48,269 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:48,296 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:48,318 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:48,349 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:50,625 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:50,683 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:50,911 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:50,935 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:50,962 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:50,987 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:40:51,341 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:40:51,380 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:40:51,513 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:40:51,549 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:40:51,699 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:40:51,720 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:40:52,132 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:40:52,174 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:40:52,343 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:40:52,378 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:40:52,398 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:40:52,462 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:40:52,932 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:40:52,961 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:40:53,296 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:40:53,324 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:40:53,363 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:40:53,480 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:40:53,922 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:40:53,948 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:40:54,019 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:40:54,058 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:40:54,081 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:40:54,183 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:40:59,159 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:40:59,198 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:40:59,278 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:40:59,294 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:40:59,368 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:40:59,448 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:40:59,749 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:40:59,780 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:40:59,863 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:40:59,885 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:40:59,931 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:40:59,996 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:41:00,662 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:41:00,690 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:41:00,827 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:41:00,847 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:41:00,870 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:41:00,925 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:41:01,298 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:41:01,335 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:41:01,373 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:41:01,441 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:41:01,442 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> xpath: //input[@name='sub']]
+2019-12-30 19:41:01,742 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (4536f8813b0721c6e4297b1174b088bf)] -> xpath: //input[@name='sub']]
+2019-12-30 19:41:03,375 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 19:41:15,023 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//*[@id='customer']/tbody/tr[4]/td[2]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: driver.version: EventFiringWebDriver
+2019-12-30 19:43:15,697 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:43:21,176 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:43:21,289 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:43:21,354 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:43:21,469 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:43:21,511 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:43:21,592 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:43:21,657 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:43:21,940 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:43:21,970 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:43:22,045 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:43:22,072 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:43:22,124 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:43:22,267 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:43:22,605 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:43:22,640 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:43:22,661 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:43:22,714 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:43:22,716 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> name: btnLogin]
+2019-12-30 19:43:25,324 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> name: btnLogin]
+2019-12-30 19:43:25,461 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:43:25,520 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:43:25,542 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:43:25,607 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:43:25,608 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:43:28,197 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:43:28,214 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:43:28,251 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:43:28,324 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:43:28,342 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:43:28,393 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:43:28,513 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:43:28,839 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:43:28,872 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:43:28,890 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:43:28,909 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:43:28,910 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:43:29,056 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:43:29,057 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,125 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,228 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,273 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,315 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,417 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,595 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,623 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,668 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,688 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,699 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,722 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,921 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:29,948 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:32,076 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:32,888 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:33,210 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:33,294 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:33,328 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:33,474 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:43:33,711 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:43:33,762 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:43:33,836 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:43:33,910 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:43:33,932 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:43:34,049 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:43:34,465 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:43:34,494 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:43:34,712 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:43:34,730 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:43:34,759 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:43:34,831 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:43:35,078 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:43:35,177 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:43:35,274 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:43:35,315 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:43:35,350 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:43:35,436 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:43:35,644 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:43:35,683 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:43:35,823 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:43:35,854 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:43:35,879 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:43:35,936 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:43:36,566 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:43:36,601 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:43:36,897 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:43:36,914 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:43:36,973 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:43:37,069 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:43:38,642 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:43:38,737 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:43:38,974 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:43:39,009 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:43:39,074 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:43:39,127 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:43:40,011 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:43:40,077 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:43:40,344 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:43:40,385 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:43:40,437 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:43:40,551 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:43:41,147 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:43:49,004 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:43:49,126 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:43:49,251 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:43:49,252 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> xpath: //input[@name='sub']]
+2019-12-30 19:43:59,443 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (a2b65cc57401d90f5e18322c849ab4fb)] -> xpath: //input[@name='sub']]
+2019-12-30 19:43:59,511 - Guru99Bank -INFO - Alert displayed: Email Address Already Exist !!
+2019-12-30 19:50:57,815 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:53:20,259 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:53:21,175 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:53:21,909 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.88)
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60423}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9d04339c33f146f40b3879fb2df01f46
+*** Element info: {Using=name, value=uid}
+2019-12-30 19:53:58,324 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:54:16,869 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:54:16,957 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:54:17,019 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:54:17,180 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:54:17,208 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:54:17,263 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:54:17,293 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:54:17,749 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:54:17,782 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:54:17,865 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:54:17,905 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:54:17,933 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:54:17,970 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:54:18,257 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:54:18,342 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:54:18,372 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:54:18,394 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:54:18,395 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> name: btnLogin]
+2019-12-30 19:54:26,055 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> name: btnLogin]
+2019-12-30 19:54:26,095 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:54:26,132 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:54:26,146 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:54:26,189 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:54:26,190 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:54:29,391 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:54:29,521 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:54:29,583 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:54:29,661 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:54:29,665 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:54:29,691 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:54:29,726 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:54:29,986 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:54:30,013 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:54:30,026 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:54:30,045 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:54:30,046 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:54:30,154 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:54:30,155 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,186 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,251 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,269 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,286 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,311 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,441 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,463 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,509 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,547 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,579 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,594 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,718 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:30,759 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:32,837 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:32,838 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:32,884 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:32,916 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:32,931 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:32,947 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:54:33,031 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:54:33,069 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:54:33,159 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:54:33,190 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:54:33,206 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:54:33,222 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:54:33,374 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:54:33,408 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:54:33,490 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:54:33,505 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:54:33,521 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:54:33,537 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:54:33,726 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:54:33,750 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:54:33,839 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:54:33,857 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:54:33,873 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:54:33,895 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:54:34,004 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:54:34,027 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:54:34,105 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:54:34,136 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:54:34,152 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:54:34,168 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:54:34,365 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:54:34,395 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:54:34,473 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:54:34,520 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:54:34,536 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:54:34,551 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:54:34,739 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:54:34,763 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:54:34,838 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:54:34,854 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:54:34,870 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:54:34,891 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:54:35,188 - Guru99Bank -INFO - Customer Email ID: wWtvy@gmail.com
+2019-12-30 19:54:35,188 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:54:35,215 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:54:35,291 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:54:35,306 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:54:35,348 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:54:35,391 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:54:35,533 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:54:35,555 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:54:35,567 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:54:35,596 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:54:35,597 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> xpath: //input[@name='sub']]
+2019-12-30 19:54:41,392 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (3957f209915109be475fbb6955e0ddf0)] -> xpath: //input[@name='sub']]
+2019-12-30 19:54:41,415 - Guru99Bank -INFO - Alert displayed: Customer could not be added !!
+2019-12-30 19:58:35,017 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 19:58:53,882 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 19:58:54,144 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:58:54,185 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:58:54,279 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:58:54,299 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:58:54,333 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 19:58:54,402 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 19:58:54,569 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:58:54,597 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:58:54,661 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:58:54,680 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:58:54,695 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 19:58:54,721 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 19:58:54,882 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:58:54,915 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:58:54,931 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 19:58:54,968 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 19:58:54,969 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> name: btnLogin]
+2019-12-30 19:58:59,818 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> name: btnLogin]
+2019-12-30 19:58:59,845 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:58:59,877 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:58:59,894 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:58:59,922 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 19:58:59,923 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:59:02,685 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 19:59:02,720 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:59:02,747 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:59:02,831 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:59:02,863 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:59:02,903 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 19:59:02,937 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 19:59:03,180 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:59:03,207 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:59:03,221 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:59:03,237 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 19:59:03,238 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:59:03,335 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 19:59:03,337 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,377 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,437 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,457 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,472 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,503 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,633 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,656 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,712 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,751 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,766 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,797 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,950 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:03,982 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:06,058 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:06,059 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:06,121 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:06,137 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:06,168 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:06,199 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 19:59:06,261 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:59:06,288 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:59:06,367 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:59:06,398 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:59:06,413 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:59:06,418 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 19:59:06,549 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:59:06,588 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:59:06,665 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:59:06,680 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:59:06,711 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 19:59:06,730 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 19:59:06,892 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:59:06,921 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:59:07,016 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:59:07,032 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:59:07,064 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 19:59:07,082 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 19:59:07,180 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:59:07,203 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:59:07,329 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:59:07,364 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:59:07,380 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:59:07,399 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 19:59:07,602 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:59:07,628 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:59:07,706 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:59:07,721 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:59:07,737 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:59:07,755 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 19:59:07,939 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:59:07,962 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:59:08,049 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:59:08,064 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:59:08,080 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:59:08,095 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 19:59:08,408 - Guru99Bank -INFO - Customer Email ID: ZZcDV@gmail.com
+2019-12-30 19:59:08,408 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:59:08,432 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:59:08,516 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:59:08,547 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:59:08,563 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 19:59:08,579 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 19:59:08,748 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:59:08,772 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:59:08,787 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:59:08,809 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 19:59:08,809 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> xpath: //input[@name='sub']]
+2019-12-30 20:02:26,610 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (507d5e9c20c40d1b06626d6232256d64)] -> xpath: //input[@name='sub']]
+2019-12-30 20:02:43,615 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 20:02:51,791 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 20:02:51,929 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:02:51,992 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:02:52,183 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:02:52,226 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:02:52,276 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:02:52,336 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:02:59,334 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:02:59,569 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:02:59,685 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:02:59,706 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:02:59,783 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:02:59,823 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:03:00,095 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:03:00,122 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:03:00,139 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:03:00,174 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:03:00,175 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> name: btnLogin]
+2019-12-30 20:03:03,282 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> name: btnLogin]
+2019-12-30 20:03:03,521 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:03:03,652 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:03:03,667 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:03:03,725 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:03:03,726 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 20:03:06,308 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 20:03:06,390 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 20:03:06,421 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 20:03:06,499 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 20:03:06,530 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 20:03:06,547 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 20:03:06,573 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 20:03:06,865 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:03:06,895 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:03:06,909 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:03:06,928 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:03:06,929 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 20:03:07,139 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 20:03:07,141 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,173 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,237 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,263 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,281 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,349 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,533 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,556 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,633 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,664 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,711 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,757 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,933 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:07,964 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:10,029 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:10,076 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:10,200 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:10,232 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:10,250 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:10,273 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:03:10,492 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:03:10,518 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:03:10,577 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:03:10,595 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:03:10,615 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:03:10,636 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:03:10,799 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:03:10,830 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:03:10,937 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:03:10,954 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:03:10,970 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:03:11,027 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:03:11,240 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:03:11,265 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:03:11,335 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:03:11,367 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:03:11,383 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:03:11,426 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:03:11,529 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:03:11,554 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:03:11,625 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:03:11,659 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:03:11,675 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:03:11,726 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:03:11,993 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:03:12,020 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:03:12,079 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:03:12,094 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:03:12,134 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:03:12,302 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:03:12,681 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:03:12,717 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:03:12,859 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:03:12,884 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:03:12,900 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:03:12,970 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:03:13,776 - Guru99Bank -INFO - Customer Email ID: VJSCl@gmail.com
+2019-12-30 20:03:13,776 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 20:03:13,929 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 20:03:14,285 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 20:03:14,342 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 20:03:14,405 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 20:03:14,473 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 20:03:20,287 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:03:20,323 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:03:20,346 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:03:20,413 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:03:20,414 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> xpath: //input[@name='sub']]
+2019-12-30 20:03:24,182 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (dd1a0459ec2ec67fea1d83dad6c6ead4)] -> xpath: //input[@name='sub']]
+2019-12-30 20:03:24,357 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 20:03:24,388 - Guru99Bank -INFO - Found Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 20:41:26,589 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 20:41:34,270 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 20:41:35,479 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:41:35,798 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:41:36,387 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:41:36,407 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:41:36,427 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:41:36,463 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:41:37,456 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:41:37,485 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:41:37,559 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:41:37,578 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:41:37,650 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:41:37,682 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:41:37,905 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:41:37,932 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:41:37,951 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:41:37,997 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:41:37,998 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> name: btnLogin]
+2019-12-30 20:41:44,158 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> name: btnLogin]
+2019-12-30 20:41:44,422 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:41:44,563 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:41:44,616 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:41:44,660 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:41:44,662 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> xpath: //a[contains(text(),'Edit Customer')]]
+2019-12-30 20:41:46,592 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> xpath: //a[contains(text(),'Edit Customer')]]
+2019-12-30 20:41:46,787 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:41:46,845 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:41:46,932 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:41:46,995 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:41:47,033 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:41:47,059 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:41:47,272 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:41:47,303 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:41:47,322 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:41:47,353 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:41:47,353 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> xpath: //input[@name='AccSubmit']]
+2019-12-30 20:41:50,347 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> xpath: //input[@name='AccSubmit']]
+2019-12-30 20:41:52,350 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:41:52,389 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:41:52,473 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:41:52,502 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:41:52,525 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:41:52,565 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:41:52,735 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:41:52,763 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:41:52,896 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:41:52,925 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:41:52,949 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:41:52,985 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:41:53,159 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:41:53,194 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:41:53,283 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:41:53,369 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:41:53,500 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:41:53,533 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:41:53,757 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:41:53,784 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:41:53,893 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:41:54,031 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:41:54,048 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:41:54,084 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:41:55,152 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:41:55,194 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:41:55,357 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:41:55,387 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:41:55,436 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:41:55,545 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:41:55,878 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:41:55,936 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:41:56,153 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:41:56,169 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:41:56,187 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:41:56,216 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:41:56,576 - Guru99Bank -INFO - Customer's updated Email ID: YzPrW80000000000
+2019-12-30 20:41:56,577 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:41:56,606 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:41:56,624 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:41:56,665 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:41:56,666 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> xpath: //input[@name='sub']]
+2019-12-30 20:42:08,333 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0fa5bc777a47d9824a3ead55de6bf48f)] -> xpath: //input[@name='sub']]
+2019-12-30 20:42:08,334 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //p[@class='heading3']
+2019-12-30 20:42:08,383 - Guru99Bank -INFO - Found Element By : By.xpath: //p[@class='heading3']
+2019-12-30 20:42:08,937 - Guru99Bank -INFO - Customer updated message: Customer details updated Successfully!!!
+2019-12-30 20:42:08,937 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:43:14,085 - Guru99Bank -INFO - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='cusid']"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-3', revision: '8c567de6dc'
+System info: host: 'ALKESH-PC', ip: '192.168.1.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\Alkesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49827}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0fa5bc777a47d9824a3ead55de6bf48f
+*** Element info: {Using=xpath, value=//input[@name='cusid']}
+2019-12-30 20:46:53,914 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 20:46:59,288 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 20:46:59,368 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:46:59,443 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:46:59,578 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:46:59,602 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:46:59,620 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:46:59,648 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:47:00,016 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:47:00,048 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:47:00,132 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:47:00,149 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:47:00,168 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:47:00,253 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:47:00,488 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:47:00,534 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:47:00,581 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:47:00,617 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:47:00,618 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> name: btnLogin]
+2019-12-30 20:47:03,699 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> name: btnLogin]
+2019-12-30 20:47:05,247 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:47:05,339 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:47:05,374 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:47:05,436 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'New Customer')]
+2019-12-30 20:47:05,437 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 20:47:08,373 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> xpath: //a[contains(text(),'New Customer')]]
+2019-12-30 20:47:08,436 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 20:47:08,484 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 20:47:08,596 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 20:47:08,613 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 20:47:08,637 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='name']
+2019-12-30 20:47:08,671 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='name']
+2019-12-30 20:47:08,981 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:47:09,020 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:47:09,048 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:47:09,075 - Guru99Bank -INFO - Found Element By : By.xpath: //tr[5]//td[2]//input[1]
+2019-12-30 20:47:09,076 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 20:47:09,214 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> xpath: //tr[5]//td[2]//input[1]]
+2019-12-30 20:47:09,220 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,258 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,358 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,415 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,470 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,607 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,816 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,841 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,904 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,923 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,936 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:09,958 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:10,122 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:10,141 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:12,238 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:12,269 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:12,329 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:12,330 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:12,342 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:12,359 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@id='dob']
+2019-12-30 20:47:12,785 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:47:13,417 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:47:15,186 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:47:15,564 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:47:15,829 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:47:15,887 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:47:16,331 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:47:16,371 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:47:16,475 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:47:16,761 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:47:16,798 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:47:17,002 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:47:17,326 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:47:17,359 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:47:17,455 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:47:17,506 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:47:17,559 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:47:17,618 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:47:21,161 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:47:21,273 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:47:21,359 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:47:21,396 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:47:21,475 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:47:21,671 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:47:22,047 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:47:22,077 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:47:22,184 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:47:22,214 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:47:22,233 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:47:22,321 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:47:22,612 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:47:22,639 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:47:22,746 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:47:22,768 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:47:22,835 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:47:22,917 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:47:35,998 - Guru99Bank -INFO - Customer Email ID: CCrnt@gmail.com
+2019-12-30 20:47:35,998 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 20:47:36,047 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 20:47:36,140 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 20:47:36,170 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 20:47:36,183 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='password']
+2019-12-30 20:47:36,256 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='password']
+2019-12-30 20:47:40,619 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:47:40,663 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:47:40,686 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:47:40,745 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:47:40,746 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> xpath: //input[@name='sub']]
+2019-12-30 20:47:47,687 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (66596b2961c77bdb90e00e94bb97b255)] -> xpath: //input[@name='sub']]
+2019-12-30 20:47:48,458 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 20:47:48,535 - Guru99Bank -INFO - Found Element By : By.xpath: //*[@id='customer']/tbody/tr[4]/td[2]
+2019-12-30 20:49:24,502 - Guru99Bank -INFO - Before navigating to: 'http://www.demo.guru99.com/V4/'
+2019-12-30 20:50:05,365 - Guru99Bank -INFO - Navigated to:'http://www.demo.guru99.com/V4/'
+2019-12-30 20:50:06,802 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:50:06,862 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:50:07,155 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:50:07,211 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:50:07,356 - Guru99Bank -INFO - Trying to find Element By : By.name: uid
+2019-12-30 20:50:07,412 - Guru99Bank -INFO - Found Element By : By.name: uid
+2019-12-30 20:50:08,252 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:50:08,314 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:50:08,577 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:50:08,618 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:50:08,701 - Guru99Bank -INFO - Trying to find Element By : By.name: password
+2019-12-30 20:50:08,917 - Guru99Bank -INFO - Found Element By : By.name: password
+2019-12-30 20:50:09,517 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:50:09,620 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:50:09,753 - Guru99Bank -INFO - Trying to find Element By : By.name: btnLogin
+2019-12-30 20:50:09,827 - Guru99Bank -INFO - Found Element By : By.name: btnLogin
+2019-12-30 20:50:09,828 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> name: btnLogin]
+2019-12-30 20:50:13,101 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> name: btnLogin]
+2019-12-30 20:50:13,182 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:50:13,215 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:50:13,239 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:50:13,291 - Guru99Bank -INFO - Found Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2019-12-30 20:50:13,292 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> xpath: //a[contains(text(),'Edit Customer')]]
+2019-12-30 20:50:15,275 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> xpath: //a[contains(text(),'Edit Customer')]]
+2019-12-30 20:50:15,405 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:50:15,444 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:50:15,518 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:50:15,593 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:50:15,622 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:50:15,658 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='cusid']
+2019-12-30 20:50:15,852 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:50:15,878 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:50:15,897 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:50:15,932 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='AccSubmit']
+2019-12-30 20:50:15,932 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> xpath: //input[@name='AccSubmit']]
+2019-12-30 20:50:18,745 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> xpath: //input[@name='AccSubmit']]
+2019-12-30 20:50:20,750 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:50:20,778 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:50:20,926 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:50:21,008 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:50:21,024 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:50:21,272 - Guru99Bank -INFO - Found Element By : By.xpath: //textarea[@name='addr']
+2019-12-30 20:50:21,990 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:50:22,039 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:50:22,228 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:50:22,257 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:50:22,272 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='city']
+2019-12-30 20:50:22,322 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='city']
+2019-12-30 20:50:22,736 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:50:22,772 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:50:22,960 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:50:22,991 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:50:23,004 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='state']
+2019-12-30 20:50:23,038 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='state']
+2019-12-30 20:50:23,275 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:50:23,306 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:50:23,407 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:50:23,521 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:50:23,582 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:50:23,612 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='pinno']
+2019-12-30 20:50:23,877 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:50:23,909 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:50:24,022 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:50:24,060 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:50:24,075 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:50:24,111 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='telephoneno']
+2019-12-30 20:50:27,541 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:50:29,112 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:50:29,505 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:50:29,769 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:50:30,634 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:50:30,700 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='emailid']
+2019-12-30 20:50:31,368 - Guru99Bank -INFO - Customer's updated Email ID: cceVt@gmail.com
+2019-12-30 20:50:31,369 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:50:31,413 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:50:31,435 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:50:31,471 - Guru99Bank -INFO - Found Element By : By.xpath: //input[@name='sub']
+2019-12-30 20:50:31,472 - Guru99Bank -INFO - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> xpath: //input[@name='sub']]
+2019-12-30 20:50:35,653 - Guru99Bank -INFO - Clicked on: [[ChromeDriver: chrome on WINDOWS (0e21080b174a609e1e6225f44bfca411)] -> xpath: //input[@name='sub']]
+2019-12-30 20:50:35,653 - Guru99Bank -INFO - Trying to find Element By : By.xpath: //p[@class='heading3']
+2019-12-30 20:50:35,702 - Guru99Bank -INFO - Found Element By : By.xpath: //p[@class='heading3']
+2019-12-30 20:50:35,739 - Guru99Bank -INFO - Customer updated message: Customer details updated Successfully!!!
